@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 🔊 I'm **Wu Hengtao**, an undergraduate student majoring in **Computer Science @ SJTU**.
 
 🎧 My main interests are **speech & audio AI**, especially:
-- ASR  
-- TTS  
+- ASR/TTS  
 - Audio-based dialogue systems
 
 🧠 I've learnt some **probability**, **machine learning**, **deep learning**, and **speech signal processing**.  
